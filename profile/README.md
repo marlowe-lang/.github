@@ -10,44 +10,6 @@ Marlowe is transitioning from an IOG-managed solution to a fully open-source, co
 
 As its core maintainers, we will continue to support Marlowe, to consolidate and extend it to make it an option for Cardano DApp builders. Our roadmap for 2025 is defined in details our [Marlowe 2025 F12 Catalyst Proposal]() 
 
-<img width="1218" alt="image" src="https://github.com/marlowe-lang/.github/assets/471741/a5a2d395-6378-49fa-af8d-6442ff8de12e">
-
-
-Other developments run alongside this bid. We are working with IOG to move the Marlowe repositories to this independent GitHub organization, and to coordinate community activity and interest by means of a Marlowe Special Interest Group, supported by a new, members-based, non-profit organization. 
-
-This Github organization will reference all the core projects related to Marlowe. The following IOG repositories will soon be transferred here : 
-
-- [marlowe](https://github.com/input-output-hk/marlowe)
-- [marlowe-cardano](https://github.com/input-output-hk/marlowe-cardano)
-- [marlowe-plutus](https://github.com/input-output-hk/marlowe-plutus)
-- [marlowe-playground](https://github.com/input-output-hk/marlowe-playground)
-- [marlowe-runner](https://github.com/input-output-hk/marlowe-runner)
-- [marlowe-ts-sdk](https://github.com/input-output-hk/marlowe-ts-sdk)
-- [marlowe-scan](https://github.com/input-output-hk/marlowe-scan)
-- [marlowe-starter-kit](https://github.com/input-output-hk/marlowe-starter-kit)
-- [marlowe-doc](https://github.com/input-output-hk/marlowe-doc)
-- [awesome-marlowe](https://github.com/input-output-hk/awesome-marlowe)
-- [real-world-marlowe](https://github.com/input-output-hk/real-world-marlowe)
-- [marlowe-order-book-swap](https://github.com/input-output-hk/marlowe-order-book-swap)
-- [marlowe-ts-dapp-swap](https://github.com/input-output-hk/marlowe-ts-dapp-swap)
-- [marlowe-payouts](https://github.com/input-output-hk/marlowe-payouts)
-- [marlowe-token-plans](https://github.com/input-output-hk/marlowe-token-plans)
-- [marlowe-agda](https://github.com/input-output-hk/marlowe-agda)
-- [marlowe-actus-labs](https://github.com/input-output-hk/marlowe-actus-labs)
-- [marlowe-lambda](https://github.com/input-output-hk/marlowe-lambda)
-- [marlowe-hydra-poc](https://github.com/input-output-hk/marlowe-hydra-poc)
-- [actus-core](https://github.com/input-output-hk/actus-core)
-- [purescript-datetime-iso](https://github.com/input-output-hk/purescript-datetime-iso)
-- [purescript-markdown](https://github.com/input-output-hk/purescript-markdown)
-- [MIPs](https://github.com/input-output-hk/MIPs)
-- [purescript-marlowe](https://github.com/input-output-hk/purescript-marlowe)
-- [purescript-bridge-json-helpers](https://github.com/input-output-hk/purescript-bridge-json-helpers)
-- [purescript-cardano-multiplatform-lib](https://github.com/input-output-hk/purescript-cardano-multiplatform-lib)
-- [purescript-cardano-wallet-client](https://github.com/input-output-hk/purescript-cardano-wallet-client)
-- [purescript-marlowe-runtime-client](https://github.com/input-output-hk/purescript-marlowe-runtime-client)
-- [purescript-web-common](https://github.com/input-output-hk/purescript-web-common)
-- [marlowe-cardano-minimal](https://github.com/input-output-hk/marlowe-cardano-minimal)
- 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
 Be part of the journey and join our welcoming community on [Discord](https://discord.gg/av37Cgc2).
