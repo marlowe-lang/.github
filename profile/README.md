@@ -41,5 +41,5 @@ This Github organization will reference all the core projects related to Marlowe
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/twitter.svg" height="32" /> Follow us
 
-Follow us on Twitter [@aiken_eng](https://twitter.com/marlowe_io) for updates and chats about the future of Marlowe.                                  |
+Follow us on Twitter [@marlowe_io](https://twitter.com/marlowe_io) for updates and chats about the future of Marlowe.                                  |
 
