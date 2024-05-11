@@ -8,7 +8,7 @@ Marlowe core technology has been audited, and it supports contracts on mainnet a
 
 Marlowe is transitioning from an IOG-managed solution to a fully open-source, community maintained project. While IOG is providing funding/resources to help manage the transition and maintain its core capabilities in the interim, going forward Marlowe will need to sustain itself independently with community funding. 
 
-As its core maintainers, we will continue to support Marlowe, and to consolidate and extend it to make it an option for Cardano DApp builders via our [Marlowe 2025 F12 Catalyst Proposal]() 
+As its core maintainers, we will continue to support Marlowe, to consolidate and extend it to make it an option for Cardano DApp builders. Our roadmap for 2025 is defined in details our [Marlowe 2025 F12 Catalyst Proposal]() 
 
 <img width="1218" alt="image" src="https://github.com/marlowe-lang/.github/assets/471741/a5a2d395-6378-49fa-af8d-6442ff8de12e">
 
