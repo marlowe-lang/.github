@@ -12,7 +12,7 @@ These changes are expected to be in place by the end of July 2024, aligning with
 
 ## Further information
 For ongoing updates and discussions, please join us on the `marlowe-sig` Discord channel. To access #Marlowe-SIG channel:
-- Join the IOG discord server
+- Join the [IOG discord server](https://discord.gg/HF6AcX5w)
 - Complete the captcha
 - Select "Marlowe Community" from the menu in #start-here.
 
