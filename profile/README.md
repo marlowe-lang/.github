@@ -18,6 +18,6 @@ Follow us on Twitter [@marlowe_io](https://twitter.com/marlowe_io) for updates a
 * Runtimes:
   * [preview.100.runtime.marlowe-lang.org/openapi.json](https://preview.100.runtime.marlowe-lang.org/openapi.json)
   * [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.json)
-* Runner:
+* Runners:
   * [preview.runner.marlowe-lang.org](https://preview.runner.marlowe-lang.org)
   * [preprod.runner.marlowe-lang.org](https://preprod.runner.marlowe-lang.org)
