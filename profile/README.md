@@ -47,6 +47,19 @@ This Github organization will reference all the core projects related to Marlowe
 - [purescript-web-common](https://github.com/input-output-hk/purescript-web-common)
 - [marlowe-cardano-minimal](https://github.com/input-output-hk/marlowe-cardano-minimal)
 
+### New testing infrastructure
+
+As Part of this transition, we are moving also our infrastructure, here are the new URLs : 
+
+- [Marlowe Playground](https://playground.marlowe-lang.org)
+- Runners
+  - [preview.runner.marlowe-lang.org](https://preview.runner.marlowe-lang.org)
+  - [preprod.runner.marlowe-lang.org](https://preprod.runner.marlowe-lang.org)
+- Runtimes:
+  - [preview.100.runtime.marlowe-lang.org/openapi.json](https://preview.100.runtime.marlowe-lang.org/openapi.json)
+  - [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.json)
+
+
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
 Be part of the journey and join our welcoming community on [Discord](https://discord.gg/av37Cgc2).
@@ -55,12 +68,3 @@ Be part of the journey and join our welcoming community on [Discord](https://dis
 
 Follow us on Twitter [@marlowe_io](https://twitter.com/marlowe_io) for updates and chats about the future of Marlowe.
 
-## New testing infrastructure
-
-* [Marlowe Playground](https://playground.marlowe-lang.org)
-* Runtimes:
-  * [preview.100.runtime.marlowe-lang.org/openapi.json](https://preview.100.runtime.marlowe-lang.org/openapi.json)
-  * [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.json)
-* Runners:
-  * [preview.runner.marlowe-lang.org](https://preview.runner.marlowe-lang.org)
-  * [preprod.runner.marlowe-lang.org](https://preprod.runner.marlowe-lang.org)
