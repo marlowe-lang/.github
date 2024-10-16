@@ -15,6 +15,8 @@ The Marlowe team has made three proposals to Catalyst Fund 13, jointly supportin
 
 Marlowe is transitioning from an IOG-managed solution to a fully open-source, community maintained project under the auspices of the Marlowe Language CIC (Community Interest Company), a uk-based non-profit. While IOG has provided some resources to help manage the transition and maintain its core capabilities in the interim, going forward Marlowe will need to sustain itself independently with community funding. For more details see our blog post [The past, present, and future of Marlowe: a journey of innovation and community empowerment](https://marlowe.iohk.io/blog/the-past-present-and-future-of-marlowe-a-journey-of-innovation-and-community-empowerment) 
 
+## Marlowe repositories
+
 Other developments run alongside this bid. We are working with IOG to move the Marlowe repositories to this independent GitHub organization, and to coordinate community activity and interest by means of a Marlowe Special Interest Group, supported by the Marlowe Language CIC. 
 
 This Github organization will reference all the core projects related to Marlowe. The following IOG repositories will soon be transferred here : 
