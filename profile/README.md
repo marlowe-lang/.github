@@ -4,7 +4,14 @@ Marlowe is a robust, open-source technology that provides a special purpose lang
 
 Marlowe core technology has been audited, and it supports contracts on mainnet as well as in pre-production; its Runtime enables all the necessary on- and off-chain contract activity, including the tedious work of transaction construction; and the TypeScript SDK supports Marlowe as a component within a complete DApp. It is thus a smart contract technology that is complementary to Aiken, PlutusTx or Scalus, and abstracts away from the complexities of Cardano and provides a local, account-based model like Ethereum.
 
-## <img src="https://projectcatalyst.org/catalyst-logo.svg" height="24" /> Marlowe 2025 - F12 Catalyst Proposal 
+## Marlowe 2025 - F13 Catalyst Proposals
+
+The Marlowe team has made three proposals to Catalyst Fund 13, jointly supporting the design of a new version of the Marlowe language, enhancing the Marlowe Platform to optimise performance and developer experience, and to develop and implement a novel Marlowe Oracle protocol.
+
+  - [Marlowe Version 2](https://cardano.ideascale.com/c/idea/131139)
+  - [Developer-Driven Platform Enhancements](https://cardano.ideascale.com/c/idea/132547) 
+  - [Oracle Protocol, Design and Implementation](https://cardano.ideascale.com/c/idea/131188) 
+
 
 Marlowe is transitioning from an IOG-managed solution to a fully open-source, community maintained project. While IOG is providing funding/resources to help manage the transition and maintain its core capabilities in the interim, going forward Marlowe will need to sustain itself independently with community funding. For more details see our blog [The past, present, and future of Marlowe: a journey of innovation and community empowerment](https://marlowe.iohk.io/blog/the-past-present-and-future-of-marlowe-a-journey-of-innovation-and-community-empowerment) 
 
