@@ -4,7 +4,7 @@ Marlowe is a robust, open-source technology that provides a special purpose lang
 
 Marlowe core technology has been audited, and it supports contracts on mainnet as well as in pre-production; its Runtime enables all the necessary on- and off-chain contract activity, including the tedious work of transaction construction; and the TypeScript SDK supports Marlowe as a component within a complete DApp. It is thus a smart contract technology that is complementary to Aiken, PlutusTx or Scalus, and abstracts away from the complexities of Cardano and provides a local, account-based model like Ethereum.
 
-To find out more about the current status of the Marlowe language and Platform please [see this status report](Marlowe-Status-Report-Oct-2024.md)
+To find out more about the current status of the Marlowe language and Platform please [see this status report](https://github.com/marlowe-lang/.github/blob/main/Marlowe%20-Status-Report-Oct-2024.md)
 
 ## Marlowe 2025 - F13 Catalyst Proposals
 
