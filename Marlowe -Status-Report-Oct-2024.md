@@ -55,11 +55,13 @@ The Roadmap below outlines the ways that we aim to improve Marlowe, and the time
 
 The Marlowe team is working with the Gimbalabs Catalyst Fund 12 (CF12) funded project [Marlowe PBL 2025](https://projectcatalyst.io/funds/12/f12-cardano-open-developers/marlowe-pbl-2025) to ensure that there is a prototype, end-to-end example of development of a DApp using the Marlowe Platform as it stands. Through 2025 this will be upgraded in line with ongoing developments of the Platform and the language. 
 
-### Marlowe 2025: Oracle Protocol, Design and Implementation
+### Catalyst Project: Marlowe 2025: Oracle Protocol, Design and Implementation
 
 The current oracle systems on Cardano operate predominantly on a fixed, push-based model, which limits the ability to meet diverse and less commonly used data needs for smart contracts. Our solution, the Marlowe Oracle Protocol, aims to solve this by shifting towards a pull-based model, where oracles respond dynamically to on-chain data requests, ensuring better adaptability and data coverage for a wider array of contracts.
 
-Our approach is centered around enhancing flexibility, transparency, and simplicity. We want to make the process of using oracles in smart contracts much more accessible to developers, whether they are experienced with Cardano tools or are just getting started with Marlowe, Aiken, or PlutusTx. The protocol will also include user-friendly tools, developed in TypeScript, Rust, and Haskell, to facilitate oracle accessibility for the end users and simplify integrations for developers as well as data providers. This initiative is funded under Catalyst Fund 13 as project 1300131, starting by the end of January 2025. The high-level objectives of the project are
+Our approach is centered around enhancing flexibility, transparency, and simplicity. We want to make the process of using oracles in smart contracts much more accessible to developers, whether they are experienced with Cardano tools or are just getting started with Marlowe, Aiken, or PlutusTx. The protocol will also include user-friendly tools, developed in TypeScript, Rust, and Haskell, to facilitate oracle accessibility for the end users and simplify integrations for developers as well as data providers. 
+
+This initiative is funded under Catalyst Fund 13 as project 1300131, starting by the end of January 2025. The high-level objectives of the project are
 
 * Formalize Marlowe Oracle Specification
 * Marlowe Validator and Runtime Adaptations to support the oracle protocol
@@ -70,10 +72,7 @@ Our approach is centered around enhancing flexibility, transparency, and simplic
 
 The full milestones of the project are listed [here](https://milestones.projectcatalyst.io/projects/1300131/milestones),
 
-
-
-
-### Marlowe 2025: enhanced Marlowe Platform
+### Enhanced Marlowe Platform
 
 This roadmap aims to unlock the latent potential of the Marlowe platform by implementing critical updates to the Marlowe validator and tech stack, making these advanced capabilities accessible and of benefit to a wider audience. 
 
@@ -93,7 +92,7 @@ This roadmap aims to unlock the latent potential of the Marlowe platform by impl
     
   Integrating Marlowe contract execution into a DApp should involve managing a state machine with ease, where contract designers define steps and transitions. This allows contract integrators to focus on business logic and create a custom UI. However, Marlowe currently lacks higher-level abstractions to achieve this smoothly. Merkleization examples are experimental and not well integrated into runtime APIs, and there is no annotation system to easily track contract execution and available transitions.
 
-The Marlowe team has submitted two Catalyst Fund 13 bids to support work on [platform enhancements](https://cardano.ideascale.com/c/idea/132547) and [the Marlowe oracle protocol](https://cardano.ideascale.com/c/idea/131188).
+This was the subject of this [CF 13 proposal](https://cardano.ideascale.com/c/idea/132547).
 
 ### 2025: Marlowe Language V2
 
@@ -106,7 +105,7 @@ The enhancements delivered here will aim to improve the language in these ways:
 * Improving the **scalability** of the language: an example of this would be to change the behaviour of a contract on close to optimise performance with larger numbers of contract participants.  
 * Addressing the **security** of the language, which could be improved by checking types of values, so that e.g. addition only takes place between the same “kind” of number.
 
-This is the subject of this [Catalyst proposal](https://cardano.ideascale.com/c/idea/131139).
+This was the subject of this [CF 13 proposal](https://cardano.ideascale.com/c/idea/131139).
 
 # How is Marlowe administered and managed?
 
@@ -116,7 +115,6 @@ Marlowe is owned and managed by the non-profit organisation Marlowe Language CIC
 * Support the development, maintenance, education and training in the Marlowe language and platform.   
 * Host the Marlowe open source software on its repositories, and maintain an online presence for the Marlowe ecosystem including web pages, documentation, blogs, tutorials and videos.  
 * Organise face to face meetings and tutorials, in order to foster community cohesion and growth.
-
 
 The CIC provides benefit to the wider Marlowe community by:
 
@@ -129,9 +127,4 @@ The CIC provides benefit to the wider Marlowe community by:
 
 You can help Marlowe by joining the community at [Marlowe Special Interest Group](https://discord.com/channels/826816523368005654/1239607206446497843), and beginning to contribute to the ecosystem. You can do that by becoming a contributor to the core language and its infrastructure, including the various components of the Marlowe Platform, by developing example and use cases, by authoring educational materials, and by integrating Marlowe with other technologies and blockchains. 
 
-Crucially, you can support the ***Marlowe 2025*** bids for Catalyst Fund 13:
-
-* [Marlowe Version 2](https://cardano.ideascale.com/c/idea/131139)  
-* [Developer-Driven Platform Enhancements](https://cardano.ideascale.com/c/idea/132547)   
-* [Oracle Protocol, Design and Implementation](https://cardano.ideascale.com/c/idea/131188) 
 
