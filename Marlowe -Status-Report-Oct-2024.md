@@ -1,6 +1,6 @@
 # Marlowe Platform status report
 
-## October 2024
+## October 2024, updated January 2025
 
 # What is Marlowe?
 
@@ -51,11 +51,29 @@ The Roadmap below outlines the ways that we aim to improve Marlowe, and the time
 
 # Marlowe Roadmap
 
-### The remainder of 2024: end-to-end example
+### Collaboration: end-to-end example
 
-The Marlowe team will work with the Gimbalabs Catalyst Fund 12 (CF12) funded project [Marlowe PBL 2025](https://projectcatalyst.io/funds/12/f12-cardano-open-developers/marlowe-pbl-2025) to ensure that by the end of 2024 there is a prototype, end-to-end example of development of a DApp using the Marlowe Platform as it stands. Through 2025 this will be upgraded in line with ongoing developments of the Platform and the language. 
+The Marlowe team is working with the Gimbalabs Catalyst Fund 12 (CF12) funded project [Marlowe PBL 2025](https://projectcatalyst.io/funds/12/f12-cardano-open-developers/marlowe-pbl-2025) to ensure that there is a prototype, end-to-end example of development of a DApp using the Marlowe Platform as it stands. Through 2025 this will be upgraded in line with ongoing developments of the Platform and the language. 
 
-### 2025: enhanced Marlowe Platform
+### Marlowe 2025: Oracle Protocol, Design and Implementation
+
+The current oracle systems on Cardano operate predominantly on a fixed, push-based model, which limits the ability to meet diverse and less commonly used data needs for smart contracts. Our solution, the Marlowe Oracle Protocol, aims to solve this by shifting towards a pull-based model, where oracles respond dynamically to on-chain data requests, ensuring better adaptability and data coverage for a wider array of contracts.
+
+Our approach is centered around enhancing flexibility, transparency, and simplicity. We want to make the process of using oracles in smart contracts much more accessible to developers, whether they are experienced with Cardano tools or are just getting started with Marlowe, Aiken, or PlutusTx. The protocol will also include user-friendly tools, developed in TypeScript, Rust, and Haskell, to facilitate oracle accessibility for the end users and simplify integrations for developers as well as data providers. This initiative is funded under Catalyst Fund 13 as project 1300131, starting by the end of January 2025. The high-level objectives of the project are
+
+* Formalize Marlowe Oracle Specification
+* Marlowe Validator and Runtime Adaptations to support the oracle protocol
+* Deliver a complete DApp supporting the full Marlowe Oracle Service
+* Provide and document an integration of the Oracle protocol into the Marlowe TypeScript SDK
+* Provide Aiken Integration for the Oracle service
+* Documentation and Marlowe DApp Starter Kit Integration
+
+The full milestones of the project are listed [here](https://milestones.projectcatalyst.io/projects/1300131/milestones),
+
+
+
+
+### Marlowe 2025: enhanced Marlowe Platform
 
 This roadmap aims to unlock the latent potential of the Marlowe platform by implementing critical updates to the Marlowe validator and tech stack, making these advanced capabilities accessible and of benefit to a wider audience. 
 
@@ -70,11 +88,6 @@ This roadmap aims to unlock the latent potential of the Marlowe platform by impl
 * Configurable Runtime Fee Mechanism
 
   To incentivize infrastructure providers and SPOs to adopt and integrate Marlowe into their services, it is proposed to introduce a configurable fee mechanism within the Marlowe Runtime. This backend enhancement will support the safe execution of Marlowe contracts via web applications, bolstered by a new Tx validation layer in the TypeScript client library. This layer will ensure secure interactions, even with untrusted backends, facilitating a wider distribution and adoption of Marlowe technology.
-
-* Marlowe Oracle Protocol
-
-  It is proposed to formalise and expand the 'Marlowe Oracle Protocol' with a formal CIP specification, building on our MVP oracle scanner. The protocol employs a unique on-chain request-response mechanism, offering distinct advantages over traditional feed-based systems by enabling extensive data set coverage. This work can be closely coordinated with existing oracle providers on the Cardano network to ensure seamless integration and to provide interoperability with other languages such as Aiken or PlutusTx, thus allowing scripts to efficiently manage oracle data. 
-
 
 * Seamless DApp Integration of Deep Contracts (Merkleized Contracts)   
     
