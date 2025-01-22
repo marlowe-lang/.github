@@ -4,18 +4,7 @@ Marlowe is a robust, open-source technology that provides a special purpose lang
 
 Marlowe core technology has been audited, and it supports contracts on mainnet as well as in pre-production; its Runtime enables all the necessary on- and off-chain contract activity, including the tedious work of transaction construction; and the TypeScript SDK supports Marlowe as a component within a complete DApp. It is thus a smart contract technology that is complementary to Aiken, PlutusTx or Scalus, and abstracts away from the complexities of Cardano and provides a local, account-based model like Ethereum.
 
-To find out more about the current status of the Marlowe language and Platform please [see this status report](https://github.com/marlowe-lang/.github/blob/main/Marlowe%20-Status-Report-Oct-2024.md)
-
-## Marlowe 2025 - F13 Catalyst Proposals
-
-The Marlowe team has made three proposals to Catalyst Fund 13, jointly supporting the design of a new version of the Marlowe language, enhancing the Marlowe Platform to optimise performance and developer experience, and to develop and implement a novel Marlowe Oracle protocol.
-
-  - [Marlowe Version 2](https://cardano.ideascale.com/c/idea/131139)
-  - [Developer-Driven Platform Enhancements](https://cardano.ideascale.com/c/idea/132547) 
-  - [Oracle Protocol, Design and Implementation](https://cardano.ideascale.com/c/idea/131188) 
-
-
-Marlowe is transitioning from an IOG-managed solution to a fully open-source, community maintained project under the auspices of the Marlowe Language CIC (Community Interest Company), a uk-based non-profit. While IOG has provided some resources to help manage the transition and maintain its core capabilities in the interim, going forward Marlowe will need to sustain itself independently with community funding. For more details see our blog post [The past, present, and future of Marlowe: a journey of innovation and community empowerment](https://marlowe.iohk.io/blog/the-past-present-and-future-of-marlowe-a-journey-of-innovation-and-community-empowerment) 
+Marlowe is a fully open-source, community maintained project under the auspices of the Marlowe Language CIC (Community Interest Company), a uk-based non-profit organisation. The CIC is very grateful to IOG for supporting this transition process to independence. For more details see [this blog post](https://marlowe.iohk.io/blog/the-past-present-and-future-of-marlowe-a-journey-of-innovation-and-community-empowerment). Marlowe has received support from Catalyst Fund 13 to develop and implement [a novel Marlowe Oracle protocol](https://milestones.projectcatalyst.io/projects/1300131/milestones/3).
 
 ## Marlowe repositories
 
