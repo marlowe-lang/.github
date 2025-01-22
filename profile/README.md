@@ -50,13 +50,18 @@ This Github organization will reference all the core projects related to Marlowe
 As Part of this transition, we are moving also our infrastructure, here are the new URLs : 
 
 - [Marlowe Playground](https://playground.marlowe-lang.org)
+<!--
 - Runners
   - [preview.runner.marlowe-lang.org](https://preview.runner.marlowe-lang.org)
   - [preprod.runner.marlowe-lang.org](https://preprod.runner.marlowe-lang.org)
-- Runtimes:
-  - [preview.100.runtime.marlowe-lang.org/openapi.json](https://preview.100.runtime.marlowe-lang.org/openapi.json)
+-->
+- Runtime for preprod testnet:
+  - [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.html)
   - [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.json)
 
+<!--
+  - [preview.100.runtime.marlowe-lang.org/openapi.json](https://preview.100.runtime.marlowe-lang.org/openapi.json)
+-->
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
