@@ -56,7 +56,7 @@ As Part of this transition, we are moving also our infrastructure, here are the 
   - [preprod.runner.marlowe-lang.org](https://preprod.runner.marlowe-lang.org)
 -->
 - Runtime for preprod testnet:
-  - [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.html)
+  - [preprod.100.runtime.marlowe-lang.org/openapi.html](https://preprod.100.runtime.marlowe-lang.org/openapi.html)
   - [preprod.100.runtime.marlowe-lang.org/openapi.json](https://preprod.100.runtime.marlowe-lang.org/openapi.json)
 
 <!--
