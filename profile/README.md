@@ -6,7 +6,7 @@ Marlowe core technology has been audited, and it supports contracts on mainnet a
 
 ### The Marlowe Language Community Interest Company
 
-Marlowe is a fully open-source, community maintained project under the auspices of the Marlowe Language CIC (Community Interest Company), a uk-based non-profit organisation. The CIC is very grateful to IOG for supporting this transition process to independence. For more details see [this blog post](https://marlowe.iohk.io/blog/the-past-present-and-future-of-marlowe-a-journey-of-innovation-and-community-empowerment). To coordinate community activity and interest, the CIC coordinates the Marlowe Special Interest Group, currently meeting [here](https://discord.com/channels/826816523368005654/1239607206446497843). 
+Marlowe is a fully open-source, community maintained project under the auspices of the Marlowe Language CIC (Community Interest Company), a uk-based non-profit organisation. The CIC is very grateful to IOG for supporting this transition process to independence. For more details see [this blog post](https://marlowe.iohk.io/blog/the-past-present-and-future-of-marlowe-a-journey-of-innovation-and-community-empowerment). To coordinate community activity and interest, the CIC runs the Marlowe Special Interest Group, which is currently meeting [here](https://discord.com/channels/826816523368005654/1239607206446497843). 
 
 Marlowe has received support from Catalyst Fund 13 to develop and implement [a novel Marlowe Oracle protocol](https://milestones.projectcatalyst.io/projects/1300131/milestones/3).
 A longer overview of the status and plans for Marlowe can be found [here](https://github.com/marlowe-lang/.github/blob/main/Marlowe%20-Status-Report-Oct-2024.md).
